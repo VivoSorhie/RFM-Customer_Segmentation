@@ -48,7 +48,7 @@ The project culminates in a **Campaign Blueprint** for the **'Champions'** segme
 
 Click the image below to view the full project presentation.
 
-[![Presentation Title Slide](title-slide.png)](https://github.com/VivoSorhie/RFM-Customer_Segmentation/blob/main/Campaign%20Blueprint.pptx)
+[![Presentation Title Slide](title-slide.png)](https://github.com/VivoSorhie/RFM-Customer_Segmentation/blob/main/campaign-blueprint.pdf)
 
 ### Tools & Libraries
 
