@@ -46,6 +46,10 @@ The project culminates in a **Campaign Blueprint** for the **'Champions'** segme
 2.  **Loyalty Program:** Creating a premium tier with special rewards to acknowledge their value and encourage continued purchasing.
 3.  **Personalized Bundles:** Curating product bundles based on their purchasing history to increase average order value.
 
+Click the image below to view the full project presentation.
+
+[![Presentation Title Slide](title-slide.png)](https://github.com/VivoSorhie/RFM-Customer_Segmentation/blob/main/Campaign%20Blueprint.pptx)
+
 ### Tools & Libraries
 
 * **Python**
