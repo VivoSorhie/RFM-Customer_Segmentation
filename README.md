@@ -67,7 +67,7 @@ The dataset comes from the **UCI Online Retail Repository**, containing **500,00
 5. **Strategic Deep-Dive**
    - Focused on the **‘Champions’** segment to identify key purchasing behaviors and brand affinities.
 
-![RFM Segmentation Chart](rfm_segments.png)
+![RFM Segmentation Chart](rfm_distribution.png)
 
 ---
 
