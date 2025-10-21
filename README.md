@@ -20,7 +20,7 @@ A data-driven approach to segment customers and design precision marketing campa
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project leverages **RFM analysis** to transform raw transactional data into powerful customer intelligence.  
 By analyzing purchasing behavior across **Recency, Frequency, and Monetary** dimensions, the project identifies key customer segments and designs targeted marketing strategies to **maximize retention and lifetime value**.
@@ -29,7 +29,7 @@ The dataset comes from the **UCI Online Retail Repository**, containing **500,00
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -40,7 +40,7 @@ The dataset comes from the **UCI Online Retail Repository**, containing **500,00
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 1. **Data Cleaning & Preprocessing**
    - Loaded 500K+ transaction records.
@@ -71,7 +71,7 @@ The dataset comes from the **UCI Online Retail Repository**, containing **500,00
 
 ---
 
-## 💡 Key Findings & Insights
+## Key Findings & Insights
 
 ### 1. Pareto Effect: Revenue is Highly Concentrated
 - The **top 0.25% of customers** generate **17% of total revenue** — a textbook Pareto distribution.
@@ -103,11 +103,11 @@ The dataset comes from the **UCI Online Retail Repository**, containing **500,00
 
 ---
 
-## 🧭 Strategic Blueprint
+## Strategic Blueprint
 
 The final outcome is a **Campaign Blueprint** tailored for the **‘Champions’** segment — the most profitable group.
 
-### 🔹 Targeted Retention Strategy
+### Targeted Retention Strategy
 
 1. **Exclusive Access**
    - Offer early access to new or limited-edition products aligned with known preferences.
@@ -125,7 +125,7 @@ The final outcome is a **Campaign Blueprint** tailored for the **‘Champions’
 
 ---
 
-## ⚙️ How to Run This Project
+## How to Run This Project
 
 1. **Clone the Repository:**
    ```bash
