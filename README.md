@@ -129,7 +129,7 @@ The final outcome is a **Campaign Blueprint** tailored for the **‘Champions’
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/VivoSorhie/RFM-Customer_Segmentation.git
+   https://github.com/VivoSorhie/RFM-Customer_Segmentation.git
    ```
 
 2. **Install Dependencies:**
